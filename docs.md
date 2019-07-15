@@ -52,10 +52,15 @@ To fully setup the theme, follow these steps:
 6. To finish a setup of Mailchimp for WordPress:
 	1. Go to `Mailchimp for WP > Form`.
 	2. Click `Save Changes` button.
-7. To get automatic theme updates:
+7. To finish a setup of AddToAny Share Buttons:
+	1. Go to `Settings > AddToAny`.
+	2. Change icon style to `36` pixels.
+	3. Change placement - untick checkboxes `Display at the bottom of posts on the front page` and `Display at the bottom of pages`.
+	4. Click `Save Changes` button.
+8. To get automatic theme updates:
 	1. Go to `Envato Market`.
 	2. Using your preferred connection method, Connect to Envato API.
-8. To replace some URLs which are still pointing to Ubit demo website:
+9. To replace some URLs which are still pointing to Ubit demo website:
 	1. Install and activate [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) or [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) plugin.
 	2. Using a preferred plugin, find and replace URLs which are still pointing to Ubit demo website. To find specific Ubit demo website URLs - use view source functionality in your browser while viewing a frontend of your website.
 
