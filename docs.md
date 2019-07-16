@@ -1,4 +1,4 @@
-[Home](/) | [Demo](/demo) | [Download](/download) | [Docs](/docs) | [Changelog](/changelog) | [Support](/support)
+[Home](/) | [Demo](/demo/) | [Download](/download) | [Docs](/docs) | [Changelog](/changelog) | [Support](/support)
 
 # Documentation
 
@@ -89,6 +89,6 @@ As suggested in `After importing Ubit demo content` section, you should already 
 
 Once an automatic theme update is available, go to `Appearance > Themes` and click `Update Now` button on Ubit theme.
 
-If you prefer not to use Envato Market plugin, then you should check for available updates manually on ThemeForest website.
+If you prefer not to use Envato Market plugin, then you should check for available updates manually on [ThemeForest website](https://themeforest.net/search/ubit).
 
 To check what theme version you are using, go to `Appearance > Themes` and check Ubit theme version.

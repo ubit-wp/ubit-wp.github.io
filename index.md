@@ -1,10 +1,10 @@
-[Home](/) | [Demo](/demo) | [Download](/download) | [Docs](/docs) | [Changelog](/changelog) | [Support](/support)
+[Home](/) | [Demo](/demo/) | [Download](/download) | [Docs](/docs) | [Changelog](/changelog) | [Support](/support)
 
 # Ubit
 
 Responsive WooCommerce WordPress theme.
 
-[View demo](/demo) or [download the theme](/download).
+[View demo](/demo/) or [download the theme](/download).
 
 ## Getting started
 
