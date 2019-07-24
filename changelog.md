@@ -2,6 +2,6 @@
 
 # Changelog
 
-## 1.2.2 (July 4th, 2019)
+## 1.2.2 (July 25th, 2019)
 
 - Initial release.
