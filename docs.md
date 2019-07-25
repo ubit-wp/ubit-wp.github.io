@@ -73,6 +73,7 @@ To import the demo content, follow these steps:
 1. Go to `Appearance > Ubit Options`.
 2. Click `Run the Setup Wizard` button.
 3. Follow the setup wizard instructions.
+4. Follow [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content) section instructions.
 
 ## After importing Ubit theme demo content
 
