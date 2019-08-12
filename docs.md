@@ -122,22 +122,58 @@ To fully setup the theme and finish plugins configuration, follow these steps:
 	1. Install and activate [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) or [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) plugin.
 	2. Using a preferred plugin, find and replace URLs which are still pointing to Ubit theme demo website. To find specific Ubit theme demo website URLs - use view source functionality in your browser while viewing a frontend of your website.
 
-## How to (FAQs)
+## How to change Ubit theme appearance, customize options, etc.
 
-### How to change Ubit theme appearance, customize options, etc.
-
-A basic theme options are in `Appearance > Ubit Options`.
-
-A general theme appearance options are in `Appearance > Customize`. There you will find many customization options of layout, top bar, 404 page, colors, buttons, typography (fonts), WooCommerce, etc.
-
-- To set a favicon go to `Appearance > Customize > Site Identity`.
-- To apply a custom CSS code go to `Appearance > Customize > Additional CSS`.
-
-You can change home and other pages appearance in detail using Elementor page builder itself.
-
+- A basic theme options are in `Appearance > Ubit Options`.
 - To change a header and a footer go to `Appearance > Header Footer Builder` and edit them using Elementor page builder.
+- Shop and blog sidebars can be changed by going to `Appearance > Widgets`.
+- You can change home and other pages appearance in detail using Elementor page builder.
 
-Shop and blog sidebars can be changed by going to `Appearance > Widgets`.
+### Customizer
+
+A general theme appearance options are in `Appearance > Customize`.
+
+There you will find many customization options of layout, top bar, 404 page, colors, buttons, typography (fonts), WooCommerce, etc.
+
+- Site identity:
+ 	- Logo, site title, slogan and favicon.
+- Layout:
+	- Site container width and background.
+	- Top bar style and left/center/right content.
+	- Normal header layout options (if not using Elementor's header): style, menu visibility, various prebuilt actionable icons.
+	- Page header style and breadcrumbs options.
+	- Blog listing options: layout and style options, visible meta data.
+	- Single blog post options: visible meta data.
+	- Sidebar options: default visibility options per page/post type.
+	- Footer layout options (if not using Elementor's footer): scroll-to-top, widget columns layout, colors, copyright text.
+	- 404 page not found layout and style options: title, text, background image.
+- Colors: brand, menu, heading, text and link colors.
+- Buttons:
+	- Normal and hover button colors.
+	- Border radius (roundness).
+- Typography:
+	- Common body font style.
+	- Primary menu font style (if not using Max Mega Menu).
+	- Heading font style.
+- WooCommerce:
+	- Global store notice text.
+	- Product catalog listing options.
+	- Product thumbnail image options.
+	- Checkout options: required fields, privacy and terms text options.
+	- General product listing style: optionally shown add to cart button.
+	- Show archive listing options: product columns amount, products per row, visible meta data.
+	- Single product options: content color, gallery layout, optionally shown breadcrumbs, visible meta data.
+- Menus:
+	- Management of top, primary and footer menus.
+	- Menu locations management: top, primary and footer menu locations.
+	- Availability of menu locations depends on used header and footer solutions - Elementor based or basic theme layout.
+- Widget areas management:
+	- Blog and shop sidebars
+	- Optionally shown footer column widgets.
+- Homepage settings: setting of static homepage and blog posts page.
+- Additional CSS: apply a custom CSS code.
+
+## How to (FAQs)
 
 ### How to get Ubit child theme
 
