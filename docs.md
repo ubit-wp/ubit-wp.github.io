@@ -18,6 +18,7 @@
 6. [How to (FAQs)](#how-to-faqs)
 	1. [How to get Ubit child theme](#how-to-get-ubit-child-theme)
 	2. [How to update Ubit theme](#how-to-update-ubit-theme)
+	3. [How to update bundled plugins](#how-to-update-bundled-plugins)
 
 ## Getting started
 
@@ -42,7 +43,7 @@ To use Ubit theme you need to have:
 
 ### Download Ubit theme
 
-1. Visit [ThemeForest website](https://themeforest.net/search/ubit) and go to `Downloads`
+1. Visit [ThemeForest website](https://themeforest.net/) and go to `Downloads`
 2. Download the `Installable WordPress file only` (`ubit.zip` file) as shown in the screenshot below.
 
 ![Download Ubit theme](/assets/images/docs/download-theme.jpg)
@@ -215,10 +216,22 @@ Learn more: [WordPress child themes](https://developer.wordpress.org/themes/adva
 
 ### How to update Ubit theme
 
-As suggested in [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content) section, you should already have a correctly setup [Envato Market](https://envato.com/market-plugin/) plugin which provides an automatic theme updates.
+As suggested in [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content) section, you should already have a correctly setup [Envato Market plugin](https://envato.com/market-plugin/) which provides an automatic theme updates.
+
+To check for any available updates go to `Dashboard > Updates`.
 
 Once an automatic theme update is available, go to `Appearance > Themes` and click `Update Now` button on Ubit theme.
 
 If you prefer not to use Envato Market plugin, then you should check for available updates manually on [ThemeForest website](https://themeforest.net/search/ubit).
 
 To check which theme version you are using, go to `Appearance > Themes` and click on Ubit theme block.
+
+### How to update bundled plugins
+
+The theme is using only free and open source plugins which are available on WordPress.org repository, with the only exception for [Envato Market plugin](https://envato.com/market-plugin/).
+
+To check for any available updates go to `Dashboard > Updates`.
+
+Generally you will be informed on your WordPress website dashboard about any available updates of bundled plugins.
+
+For available updates of Envato Market plugin you should check them on [Envato Market plugin website](https://envato.com/market-plugin/) or [Envato Market plugin GitHub repository](https://github.com/envato/wp-envato-market/releases).
