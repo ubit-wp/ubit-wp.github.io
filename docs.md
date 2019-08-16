@@ -45,6 +45,7 @@ To use Ubit theme you need to have:
 
 1. Visit [ThemeForest website](https://themeforest.net/), then go to `Downloads`
 2. Download the `Installable WordPress file only` (`ubit.zip` file) as shown in the screenshot below.
+
 ![Download Ubit theme](/assets/images/docs/download-theme.jpg)
 
 ### Install Ubit theme
