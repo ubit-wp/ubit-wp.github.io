@@ -96,7 +96,7 @@ Recommended plugins (optional):
 - Smart Slider 3
 - Mailchimp for WordPress
 - Contact Form 7
-- Custom Feeds for Instagram
+- Instagram Feed
 - AddToAny Share Buttons
 - Recent Posts Widget With Thumbnails
 - [Envato Market](https://envato.com/market-plugin/)
