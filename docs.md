@@ -179,6 +179,8 @@ A general theme appearance options are in `Appearance > Customize`.
 
 There you will find many customization options of layout, top bar, 404 page, colors, buttons, typography (fonts), WooCommerce, etc.
 
+![Appearance - Customize - Controls](/assets/images/docs/appearance-customize-controls.jpg)
+
 - Site identity:
  	- Logo, site title, slogan and favicon.
 - Layout:
