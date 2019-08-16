@@ -62,7 +62,7 @@ Learn more: [How to install WordPress theme](https://envato.com/blog/install-the
 
 ### Required plugins
 
-> Skip to [How to import Ubit theme demo content](#how-to-import-ubit-theme-demo-content) section, if you prefer to use the setup wizard.
+> Skip to [How to import Ubit theme demo content](#how-to-import-ubit-theme-demo-content) section, if you prefer to use the setup wizard which will help you to install plugins automatically.
 
 After installing the theme you must install the required plugins for a correct work of the theme. Recommended plugins are optional to install.
 
