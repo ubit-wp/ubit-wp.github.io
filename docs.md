@@ -54,14 +54,15 @@ To install the theme on your WordPress website, follow these steps:
 
 1. Login to your WordPress admin dashboard.
 2. Go to `Appearance > Themes > Add New > Upload Theme`.
-3. Upload `ubit.zip` file.
-4. Once the theme is uploaded click `Activate` button. If you do not see the button, then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
 ![Appearance - Themes](/assets/images/docs/appearance-themes.jpg)
 
 ![Appearance - Themes - Add New](/assets/images/docs/appearance-themes-add-new.jpg)
 
 ![Appearance - Themes - Add New - Upload Theme](/assets/images/docs/appearance-themes-add-new-upload-theme.jpg)
+
+3. Upload `ubit.zip` file.
+4. Once the theme is uploaded click `Activate` button. If you do not see the button, then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
 Alternatively, you can extract `ubit.zip` file and upload the extracted folder to `/wp-content/themes/` folder on your server using FTP. Then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
@@ -113,8 +114,17 @@ By default, the theme uses Elementor page builder for the demo content. If you p
 To import the demo content, follow these steps:
 
 1. Go to `Appearance > Ubit Options`.
+
+![Appearance - Ubit Options](/assets/images/docs/appearance-ubit-options.jpg)
+
 2. Click `Run the Setup Wizard` button.
+
+![Appearance - Ubit Options - Run the Setup Wizard](/assets/images/docs/appearance-ubit-options-run-the-setup-wizard.jpg)
+
 3. Follow the setup wizard instructions.
+
+![Ubit Setup Wizard](/assets/images/docs/ubit-setup-wizard.jpg)
+
 4. Follow [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content) section instructions.
 
 ## After importing Ubit theme demo content
