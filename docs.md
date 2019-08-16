@@ -5,20 +5,23 @@
 ## Table of Contents
 
 1. [Getting started](#getting-started)
-2. [System requirements](#system-requirements)
-3. [How to install Ubit theme](#how-to-install-ubit-theme)
+	1. [Useful resources](#useful-resources)
+	2. [System requirements](#system-requirements)
+2. [How to install Ubit theme](#how-to-install-ubit-theme)
 	1. [Download Ubit theme](#download-ubit-theme)
 	2. [Install Ubit theme](#install-ubit-theme)
 	3. [Required plugins](#required-plugins)
-4. [How to import Ubit theme demo content](#how-to-import-ubit-theme-demo-content)
-5. [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content)
-6. [How to change Ubit theme appearance, customize options, etc.](#how-to-change-ubit-theme-appearance-customize-options-etc)
+3. [How to import Ubit theme demo content](#how-to-import-ubit-theme-demo-content)
+4. [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content)
+5. [How to change Ubit theme appearance, customize options, etc.](#how-to-change-ubit-theme-appearance-customize-options-etc)
 	1. [Customizer](#customizer)
-7. [How to (FAQs)](#how-to-faqs)
+6. [How to (FAQs)](#how-to-faqs)
 	1. [How to get Ubit child theme](#how-to-get-ubit-child-theme)
 	2. [How to update Ubit theme](#how-to-update-ubit-theme)
 
 ## Getting started
+
+### Useful resources
 
 If you are new to WordPress, WooCommerce or Elementor page builder, follow these links to learn more:
 
@@ -27,7 +30,7 @@ If you are new to WordPress, WooCommerce or Elementor page builder, follow these
 - [WooCommerce Docs](https://docs.woocommerce.com/)
 - [Elementor Support](https://elementor.com/support/)
 
-## System requirements
+### System requirements
 
 To use Ubit theme you need to have:
 
@@ -53,6 +56,8 @@ To install the theme on your WordPress website, follow these steps:
 3. Once the theme is uploaded click `Activate` button. If you do not see the button, then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
 Alternatively, you can extract `ubit.zip` file and upload the extracted folder to `/wp-content/themes/` folder on your server using FTP. Then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
+
+Learn more: [How to install WordPress theme](https://envato.com/blog/install-themeforest-wordpress-theme/).
 
 ### Required plugins
 
@@ -206,7 +211,7 @@ If you want to make advanced code changes to the theme, the best way to do it is
 
 If you used the theme setup wizard, then you should already have a child theme installed and activated automatically.
 
-[Learn more about child themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/).
+Learn more: [WordPress child themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/).
 
 ### How to update Ubit theme
 
