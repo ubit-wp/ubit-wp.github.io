@@ -57,6 +57,12 @@ To install the theme on your WordPress website, follow these steps:
 3. Upload `ubit.zip` file.
 4. Once the theme is uploaded click `Activate` button. If you do not see the button, then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
+![Appearance - Themes](/assets/images/docs/appearance-themes.jpg)
+
+![Appearance - Themes - Add New](/assets/images/docs/appearance-themes-add-new.jpg)
+
+![Appearance - Themes - Add New - Upload Theme](/assets/images/docs/appearance-themes-add-new-upload-theme.jpg)
+
 Alternatively, you can extract `ubit.zip` file and upload the extracted folder to `/wp-content/themes/` folder on your server using FTP. Then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
 Learn more: [How to install WordPress theme](https://envato.com/blog/install-themeforest-wordpress-theme/).
@@ -169,7 +175,7 @@ To fully setup the theme and finish plugins configuration, follow these steps:
 
 A general theme appearance options are in `Appearance > Customize`.
 
-![Download Ubit theme](/assets/images/docs/appearance-customize.jpg)
+![Appearance - Customize](/assets/images/docs/appearance-customize.jpg)
 
 There you will find many customization options of layout, top bar, 404 page, colors, buttons, typography (fonts), WooCommerce, etc.
 
