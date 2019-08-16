@@ -52,9 +52,10 @@ To use Ubit theme you need to have:
 
 To install the theme on your WordPress website, follow these steps:
 
-1. Go to `Appearance > Themes > Add New > Upload Theme`.
-2. Upload `ubit.zip` file.
-3. Once the theme is uploaded click `Activate` button. If you do not see the button, then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
+1. Login to your WordPress admin dashboard.
+2. Go to `Appearance > Themes > Add New > Upload Theme`.
+3. Upload `ubit.zip` file.
+4. Once the theme is uploaded click `Activate` button. If you do not see the button, then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
 Alternatively, you can extract `ubit.zip` file and upload the extracted folder to `/wp-content/themes/` folder on your server using FTP. Then go to `Appearance > Themes` and click `Activate` button on Ubit theme.
 
@@ -238,6 +239,6 @@ The theme is using only a free and an open source plugins which are available on
 
 To check for any available updates go to `Dashboard > Updates`.
 
-Generally you will be informed on your WordPress website dashboard about any available updates of bundled plugins.
+Generally you will be informed on your WordPress admin dashboard about any available updates of bundled plugins.
 
 For available updates of Envato Market plugin you should check them on [Envato Market plugin website](https://envato.com/market-plugin/) or [Envato Market plugin GitHub repository](https://github.com/envato/wp-envato-market/releases).
