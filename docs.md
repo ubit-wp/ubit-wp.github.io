@@ -43,7 +43,7 @@ To use Ubit theme you need to have:
 
 ### Download Ubit theme
 
-1. Visit [ThemeForest website](https://themeforest.net/) and go to `Downloads`
+1. Visit [ThemeForest website](https://themeforest.net/), then go to `Downloads`
 2. Download the `Installable WordPress file only` (`ubit.zip` file) as shown in the screenshot below.
 
 ![Download Ubit theme](/assets/images/docs/download-theme.jpg)
@@ -69,6 +69,8 @@ After installing the theme you must install the required plugins for a correct w
 If you prefer not to import the demo content, then you can use any plugin (see the plugins list below) in the theme as is or almost without any additional configuration (see [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content) section).
 
 The theme is using only a free and an open source plugins which are available on [WordPress.org plugins repository](https://wordpress.org/plugins/), with the only exception for [Envato Market plugin](https://envato.com/market-plugin/).
+
+To install plugins manually go to `Plugins > Add New` and use search to find wanted plugins.
 
 Also, do not forget to follow an official documentation of each plugin.
 
@@ -222,11 +224,11 @@ As suggested in [After importing Ubit theme demo content](#after-importing-ubit-
 
 To check for any available updates go to `Dashboard > Updates`.
 
-Once an automatic theme update is available, go to `Appearance > Themes` and click `Update Now` button on Ubit theme.
+Once an automatic theme update is available go to `Appearance > Themes` and click `Update Now` button on Ubit theme.
 
 If you prefer not to use Envato Market plugin, then you should check for available updates manually on [ThemeForest website](https://themeforest.net/search/ubit).
 
-To check which theme version you are using, go to `Appearance > Themes` and click on Ubit theme block.
+To check which theme version you are using go to `Appearance > Themes` and click on Ubit theme block.
 
 ### How to update bundled plugins
 
