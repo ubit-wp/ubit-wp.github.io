@@ -72,7 +72,7 @@ After installing the theme you must install the required plugins for a correct w
 
 If you prefer not to import the demo content, then you can use any plugin (see the plugins list below) in the theme as is or almost without any additional configuration (see [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content) section).
 
-The theme is using only a free and an open source plugins which are available on [WordPress.org plugins repository](https://wordpress.org/plugins/), with the only exception for [Envato Market plugin](https://envato.com/market-plugin/).
+The theme is using only free and open source plugins which are available on [WordPress.org plugins repository](https://wordpress.org/plugins/), with the only exception for [Envato Market plugin](https://envato.com/market-plugin/).
 
 To install plugins manually go to `Plugins > Add New` and use search to find wanted plugins.
 
@@ -243,7 +243,7 @@ To check which theme version you are using go to `Appearance > Themes` and click
 
 ### How to update bundled plugins
 
-The theme is using only a free and an open source plugins which are available on [WordPress.org plugins repository](https://wordpress.org/plugins/), with the only exception for [Envato Market plugin](https://envato.com/market-plugin/).
+The theme is using only free and open source plugins which are available on [WordPress.org plugins repository](https://wordpress.org/plugins/), with the only exception for [Envato Market plugin](https://envato.com/market-plugin/).
 
 To check for any available updates go to `Dashboard > Updates`.
 
