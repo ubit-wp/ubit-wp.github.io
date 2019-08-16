@@ -2,6 +2,20 @@
 
 # Documentation
 
+## Table of Contents
+
+1. [Getting started](#getting-started)
+2. [System requirements](#system-requirements)
+3. [How to install Ubit theme](#how-to-install-ubit-theme)
+	1. [Required plugins](#required-plugins)
+4. [How to import Ubit theme demo content](#how-to-import-ubit-theme-demo-content)
+5. [After importing Ubit theme demo content](#after-importing-ubit-theme-demo-content)
+6. [How to change Ubit theme appearance, customize options, etc.](#how-to-change-ubit-theme-appearance-customize-options-etc)
+	1. [Customizer](#customizer)
+7. [How to (FAQs)](#how-to-faqs)
+	1. [How to get Ubit child theme](#how-to-get-ubit-child-theme)
+	2. [How to update Ubit theme](#how-to-update-ubit-theme)
+
 ## Getting started
 
 If you are new to WordPress or Elementor page builder, follow these links to learn more:
