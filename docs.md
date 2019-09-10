@@ -80,25 +80,25 @@ Also, do not forget to follow an official documentation of each plugin.
 
 Required plugins:
 
-- WooCommerce
-- Elementor Page Builder
+- [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+- [Elementor Page Builder](https://wordpress.org/plugins/elementor/)
 
 Recommended plugins (optional):
 
-- Max Mega Menu
-- Elementor - Header, Footer & Blocks
-- Essential Addons for Elementor
-- Variation Swatches for WooCommerce
-- YITH WooCommerce Quick View
-- YITH WooCommerce Wishlist
-- Product Slider and Carousel with Category for WooCommerce
-- WOOCS - WooCommerce Currency Switcher
-- Smart Slider 3
-- Mailchimp for WordPress
-- Contact Form 7
-- Instagram Feed
-- AddToAny Share Buttons
-- Recent Posts Widget With Thumbnails
+- [Max Mega Menu](https://wordpress.org/plugins/megamenu/)
+- [Elementor - Header, Footer & Blocks](https://wordpress.org/plugins/header-footer-elementor/)
+- [Essential Addons for Elementor](https://wordpress.org/plugins/essential-addons-for-elementor-lite/)
+- [Variation Swatches for WooCommerce](https://wordpress.org/plugins/variation-swatches-for-woocommerce/)
+- [YITH WooCommerce Quick View](https://wordpress.org/plugins/yith-woocommerce-quick-view/)
+- [YITH WooCommerce Wishlist](https://wordpress.org/plugins/yith-woocommerce-wishlist/)
+- [Product Slider and Carousel with Category for WooCommerce](https://wordpress.org/plugins/woo-product-slider-and-carousel-with-category/)
+- [WOOCS - WooCommerce Currency Switcher](https://wordpress.org/plugins/woocommerce-currency-switcher/)
+- [Smart Slider 3](https://wordpress.org/plugins/smart-slider-3/)
+- [Mailchimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/)
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+- [Instagram Feed](https://wordpress.org/plugins/instagram-feed/)
+- [AddToAny Share Buttons](https://wordpress.org/plugins/add-to-any/)
+- [Recent Posts Widget With Thumbnails](https://wordpress.org/plugins/recent-posts-widget-with-thumbnails/)
 - [Envato Market](https://envato.com/market-plugin/)
 
 ## How to import Ubit theme demo content
