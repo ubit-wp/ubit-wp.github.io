@@ -4,4 +4,4 @@
 
 Do you need help or found a bug?
 
-You can [get support on ThemeForest](https://themeforest.net/search/ubit).
+You can [get support on ThemeForest](https://themeforest.net/item/ubit-multipurpose-woocommerce-theme/24188458).

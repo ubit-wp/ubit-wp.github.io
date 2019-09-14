@@ -237,7 +237,7 @@ To check for any available updates go to `Dashboard > Updates`.
 
 Once an automatic theme update is available go to `Appearance > Themes` and click `Update Now` button on Ubit theme.
 
-If you prefer not to use Envato Market plugin, then you should check for available updates manually on [ThemeForest website](https://themeforest.net/search/ubit).
+If you prefer not to use Envato Market plugin, then you should check for available updates manually on [ThemeForest website](https://themeforest.net/item/ubit-multipurpose-woocommerce-theme/24188458).
 
 To check which theme version you are using go to `Appearance > Themes` and click on Ubit theme block.
 
