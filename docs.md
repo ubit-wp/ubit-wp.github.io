@@ -39,6 +39,18 @@ To use Ubit theme you need to have:
 - MySQL version 5.0.15 (or higher)
 - WordPress version 4.7 (or higher)
 
+Minimum required PHP settings:
+
+> These ones are important for demo data import.
+
+```
+memory_limit = 256M
+post_max_size = 64M
+upload_max_filesize = 64M
+max_execution_time = 600
+max_input_time = 600
+```
+
 ## How to install Ubit theme
 
 ### Download Ubit theme
