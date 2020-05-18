@@ -143,36 +143,40 @@ To fully setup the theme and finish plugins configuration, follow these steps:
 	1. Find a notification suggesting to setup WooCommerce.
 	2. Click `Run the Setup Wizard` button.
 	3. Follow the setup wizard instructions.
-3. To finish a setup of color variation attributes:
+3. To show a coupon code block on a checkout page:
+	1. Go to `Essential Addons > Elements`.
+	2. Find `Woo Checkout` option and disable it.
+	3. Click `Save Settings` button.
+4. To finish a setup of color variation attributes:
 	1. Go to `Products > Attributes`.
 	2. Move your mouse over a `color` attribute table row and click `Edit`.
 	3. Change `Type` to `Color`.
 	4. Click `Update` button.
-4. To finish a setup of size variation attributes:
+5. To finish a setup of size variation attributes:
 	1. Go to `Products > Attributes`.
 	2. Move your mouse over a `size` attribute table row and click `Edit`.
 	3. Change `Type` to `Label`.
 	4. Click `Update` button.
-5. To make sure that Contact Form 7 works correctly:
+6. To make sure that Contact Form 7 works correctly:
 	1. Go to `Contact`.
 	2. Check and update a configuration of each contact form (e.g. sender and receiver email addresses, etc.).
 	3. Click `Save` button on each contact form if any changes were made.
-6. To setup Instagram Feed:
+7. To setup Instagram Feed:
 	1. Go to `Instagram Feed`.
 	2. Using your preferred connection method, connect to Instagram API.
 	3. Click `Save Changes` button.
-7. To finish a setup of Mailchimp for WordPress:
+8. To finish a setup of Mailchimp for WordPress:
 	1. Go to `Mailchimp for WP > Form`.
 	2. Click `Save Changes` button.
-8. To finish a setup of AddToAny Share Buttons:
+9. To finish a setup of AddToAny Share Buttons:
 	1. Go to `Settings > AddToAny`.
 	2. Change icon style to `36` pixels.
 	3. Change placement - untick checkboxes `Display at the bottom of posts on the front page` and `Display at the bottom of pages`.
 	4. Click `Save Changes` button.
-9. To get automatic theme updates:
+10. To get automatic theme updates:
 	1. Go to `Envato Market`.
 	2. Using your preferred connection method, Connect to Envato API.
-10. To replace some URLs which are still pointing to Ubit theme demo website:
+11. To replace some URLs which are still pointing to Ubit theme demo website:
 	1. Install and activate [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) or [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) plugin.
 	2. Using a preferred plugin, find and replace URLs which are still pointing to Ubit theme demo website. To find specific Ubit theme demo website URLs - use view source functionality in your browser while viewing a frontend of your website.
 
