@@ -2,7 +2,7 @@
 
 # Changelog
 
-## 1.2.2 (July 25th, 2019)
+## 1.5.3 (September 8th, 2020)
 
 - Various fixes for WordPress 5.5+ and Elementor v3+
 
